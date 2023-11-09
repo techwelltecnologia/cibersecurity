@@ -19,4 +19,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![passwd](https://github.com/techwelltecnologia/cibersecurity/assets/133579745/bb83810b-463b-4b57-964e-d59ec30b953d)
